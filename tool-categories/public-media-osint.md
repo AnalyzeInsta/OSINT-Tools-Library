@@ -9,4 +9,6 @@ Public Media OSINT focuses on collecting, monitoring, and analysing information 
 | AllYouCanRead         | [Find out more](../osint-tools/allyoucanread.md)         |
 | Monitor the Situation | [Find out more](../osint-tools/monitor-the-situation.md) |
 | NewsMap               | [Find out more](../osint-tools/newsmap.md)               |
+| Lanes                 | [Find out more](../osint-tools/lanes.md)                 |
+| Vigil Consilium       | [Find out more](../osint-tools/vigil-consilium.md)       |
 

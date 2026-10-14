@@ -19,3 +19,5 @@ Domain Name OSINT focuses on researching websites and their domain registrations
 | Blacklist Alert        | [Find out more](../osint-tools/blacklist-alert.md)        |
 | Indicia                | [Find out more](../osint-tools/indicia.md)                |
 | Postcard TUI           | [Find out more](../osint-tools/postcard-tui.md)           |
+| cl0q                   | [Find out more](../osint-tools/cl0q.md)                   |
+| CC.LA                  | [Find out more](../osint-tools/cc.la.md)                  |

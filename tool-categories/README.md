@@ -89,7 +89,7 @@ Tools for capturing and preserving web content.
 
 Tools for analysing images and videos to extract metadata, verify authenticity, and support investigative insights.
 
-[View category](image-and-video-analysis-osint.md)
+[View category](image-and-video-analysis-osint/)
 
 #### Geolocation and Maps OSINT:
 

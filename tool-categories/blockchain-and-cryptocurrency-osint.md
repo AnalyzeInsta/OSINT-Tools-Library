@@ -13,3 +13,4 @@ Blockchain Intelligence & Cryptocurrency OSINT focuses on analyzing public block
 | Bitbo                          | [Find out more](../osint-tools/bitbo.md)                          |
 | Public AML                     | [Find out more](../osint-tools/public-aml.md)                     |
 | Crypto Licensing Jurisdictions | [Find out more](../osint-tools/crypto-licensing-jurisdictions.md) |
+| FreezeRadar                    | [Find out more](../osint-tools/freezeradar.md)                    |

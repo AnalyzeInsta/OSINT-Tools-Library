@@ -26,3 +26,5 @@ Transport OSINT focuses on gathering information about vehicles, shipping, aircr
 | Track-Trace                 | [Find out more](../osint-tools/track-trace.md)                 |
 | OpenRailwayMap              | [Find out more](../osint-tools/openrailwaymap.md)              |
 | Europlates                  | [Find out more](../osint-tools/europlates.md)                  |
+| HullCipher                  | [Find out more](../osint-tools/hullcipher.md)                  |
+| Airnav                      | [Find out more](../osint-tools/airnav.md)                      |

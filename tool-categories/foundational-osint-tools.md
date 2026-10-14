@@ -25,3 +25,4 @@ Foundational OSINT tools support tasks such as search, archiving, data analysis 
 | EarthPoint Convert            | [Find out more](../osint-tools/earthpoint-convert.md)            |
 | Excite Web Search             | [Find out more](../osint-tools/excite-web-search.md)             |
 | Europlates                    | [Find out more](../osint-tools/europlates.md)                    |
+| Time.Graphics                 | [Find out more](../osint-tools/time.graphics.md)                 |

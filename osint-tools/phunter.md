@@ -4,6 +4,8 @@ description: 'Tool Description : Allows you to find various information via a ph
 
 # Phunter
 
+**DISCLAIMER:** This tool is currently outdated. Whilst the phone number search appears to be working on the face of it, results returned may be outdated. People search is not working.
+
 | **Phunter**      | **Quick Overview**                                                                                                        |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | URL              | [https://github.com/N0rz3/Phunter](https://github.com/N0rz3/Phunter)                                                      |
@@ -29,8 +31,6 @@ How to use it:
 
 **2. Run the script with a phone number in international format.**
 
-**3. Review the output for linked accounts, mentions, or breaches.**
-
 **Example command pulled from GitHub:**&#x20;
 
 $ python3 phunter.py -t +33666666666
@@ -39,7 +39,9 @@ $ python3 phunter.py -t +33666666666
 
 _Image above is from Phunter on GitHub._
 
-You can[ view our full guide including installation and usage at the OSINT newsletter here.](https://osintnewsletter.com/p/phunter)
+**3. Review the output for linked accounts, mentions, or breaches.**
+
+**You can**[ **view our full guide including installation and usage at the OSINT newsletter here.**](https://osintnewsletter.com/p/phunter)
 
 **Important Note:** Whilst the phone number search appears to be working on the face of it, results returned may be outdated (correct as of 6 August 2026). People search was also not working as of this date.&#x20;
 

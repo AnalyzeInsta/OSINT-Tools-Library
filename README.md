@@ -44,7 +44,7 @@ Each tool entry includes:
 * [Language Translation OSINT](tool-categories/language-translation-osint.md)
 * [Transport OSINT](tool-categories/transport-osint.md)
 * [Archiving OSINT](tool-categories/archiving-osint.md)
-* [Image & Video Analysis OSINT](tool-categories/image-and-video-analysis-osint.md)&#x20;
+* [Image & Video Analysis OSINT](tool-categories/image-and-video-analysis-osint/)&#x20;
 * [Geolocation & Maps OSINT](tool-categories/geolocation-and-maps-osint.md)
 * [Blockchain/Cryptocurrency OSINT](tool-categories/blockchain-and-cryptocurrency-osint.md)
 * [Cyberthreat Intelligence OSINT](tool-categories/cyberthreat-intelligence-osint.md)

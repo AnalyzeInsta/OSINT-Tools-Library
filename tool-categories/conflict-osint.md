@@ -16,3 +16,7 @@ Conflict OSINT focuses on discovering, verifying, and analysing information rela
 | CAT UXO                         | [Find out more](../osint-tools/cat-uxo.md)                         |
 | Russian Aggression Incident Log | [Find out more](../osint-tools/russian-aggression-incident-log.md) |
 | Monitor the Situation           | [Find out more](../osint-tools/monitor-the-situation.md)           |
+| Nations Online                  | [Find out more](../osint-tools/view-1.md)                          |
+| Lanes                           | [Find out more](../osint-tools/lanes.md)                           |
+| Vigil Consilium                 | [Find out more](../osint-tools/vigil-consilium.md)                 |
+| Conflict Tracker                | [Find out more](../osint-tools/conflict-tracker.md)                |

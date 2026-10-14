@@ -21,3 +21,4 @@ Email OSINT focuses on investigating email addresses to uncover associated accou
 | Revealer.US Username Lookup | [Find out more](../osint-tools/revealer.us-username-lookup.md) |
 | Email Checker               | [Find out more](../osint-tools/email-checker.md)               |
 | Postcard TUI                | [Find out more](../osint-tools/postcard-tui.md)                |
+| SpiderFoot.tools            | [Find out more](../osint-tools/spiderfoot.tools.md)            |

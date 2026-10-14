@@ -32,3 +32,6 @@ Public Records OSINT focuses on gathering information from Government and offici
 | Wikispooks                                        | [Find out more](../osint-tools/wikispooks.md)                         |
 | City Protect (US)                                 | [Find out more](../osint-tools/city-protect.md)                       |
 | Registry Lookup                                   | [Find out more](../osint-tools/registry-lookup.md)                    |
+| HullCipher                                        | [Find out more](../osint-tools/hullcipher.md)                         |
+| SanctionsKit                                      | [Find out more](../osint-tools/sanctionskit.md)                       |
+| BRB Public Records                                | [Find out more](../osint-tools/brb-public-records.md)                 |

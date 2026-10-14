@@ -25,3 +25,6 @@ Geolocation & Maps OSINT focuses on identifying locations and analyzing geograph
 | EarthPoint Convert              | [Find out more](../osint-tools/earthpoint-convert.md)              |
 | Shadowmap                       | [Find out more](../osint-tools/shadowmap.md)                       |
 | Monitor the Situation           | [Find out more](../osint-tools/monitor-the-situation.md)           |
+| Soar Atlas                      | [Find out more](../osint-tools/soar-atlas.md)                      |
+| Nations Online                  | [Find out more](../osint-tools/view-1.md)                          |
+
